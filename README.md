@@ -1,3 +1,1 @@
-# progintro
-Under development.
-
+# Text from conflict-test branch
